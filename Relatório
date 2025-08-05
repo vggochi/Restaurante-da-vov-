@@ -1,0 +1,25 @@
+👍Pontos Fortes:
+
+Implementação Rápida e Responsiva: A equipe da InovaSoft conseguiu desenvolver uma solução funcional em dois ciclos de 45 e 60 dias, alinhada a metodologias ágeis que permitiram ajustes frequentes e adaptação às necessidades do cliente.
+
+Adoção e Aceitação pelos Jovens: O público mais familiarizado com tecnologia demonstrou alta satisfação, reforçando a vantagem de uma solução digital moderna.
+
+Autonomia na Gestão do Cardápio: A introdução do CMS permitiu ao restaurante atualizar preços e descrições sem depender totalmente da equipe de desenvolvimento, aumentando a autonomia operacional.
+
+Percepção de Modernidade: Os resultados contribuíram para melhorar a imagem do restaurante, com aumento de 15% na satisfação geral dos clientes.
+
+👎Pontos Fracos:
+
+Falta de Integração Sistêmica: O sistema não se conecta ao sistema de pedidos da cozinha, gerando erros e atrasos manuais.
+
+Usabilidade para Clientes Idosos: A interface ainda apresenta dificuldades de navegação para usuários mais idosos ou menos familiarizados com tecnologia, além da ausência de tutoriais ou orientações claras.
+
+Gestão de Promoções e Conteúdos Sazonais: Ainda manual, suscetível a erro e atrasos, o que limita a agilidade das campanhas promocionais.
+
+Dependência para Atualizações Críticas: Ainda há intervenção humana para tarefas como atualização de preços após a implementação de melhorias, o que contradiz a intenção de autonomia.
+
+Considerações das metodologias de desenvolvimento:
+
+Ágil: A equipe adotou uma metodologia ágil simplificada (Scrum), que favoreceu entregas rápidas e melhorias incrementais, porém talvez sem uma análise profunda de requisitos inicialmente, o que causou dificuldades no atendimento a todas as necessidades do cliente.
+
+Clássica: A ausência de uma fase robusta de levantamento de requisitos detalhados e planejamento de integrações mais complexas limita a escalabilidade do sistema.
