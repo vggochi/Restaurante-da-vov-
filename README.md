@@ -1,1 +1,2 @@
-# Restaurante-da-vov-
+# Restaurante-da-vovo
+Joao Victor e Valentina
